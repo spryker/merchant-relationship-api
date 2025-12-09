@@ -42,7 +42,7 @@ class MerchantRelationshipApiFacadeTest extends Unit
     /**
      * @var int
      */
-    protected const TEST_COMPANY_BUSINESS_UNIT_ID = 999;
+    protected const TEST_COMPANY_BUSINESS_UNIT_ID = 99999;
 
     /**
      * @uses \Spryker\Zed\MerchantRelationshipApi\Business\Request\MerchantRelationshipRequestDataInterface::KEY_MERCHANT_REFERENCE
